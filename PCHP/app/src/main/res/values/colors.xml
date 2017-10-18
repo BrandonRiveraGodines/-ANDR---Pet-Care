@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#9dae11</color>
+
+    <!-- Theme -->
+    <color name="primary_text">#212121</color>
+    <color name="primary_light">#b2ebf2</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- Screen background color -->
+    <color name="bg_screen1">#0097A7</color>
+    <color name="bg_screen2">#00AFC3</color>
+    <color name="bg_screen3">#00BCD4</color>
+    <color name="bg_screen4">#00D3EF</color>
+
+    <!-- Dots inactive colors -->
+    <color name="dot_dark_screen1">#02616E</color>
+    <color name="dot_dark_screen2">#02616E</color>
+    <color name="dot_dark_screen3">#02616E</color>
+    <color name="dot_dark_screen4">#02616E</color>
+
+    <!-- Dots active colors -->
+    <color name="dot_light_screen1">#76E6F5</color>
+    <color name="dot_light_screen2">#76E6F5</color>
+    <color name="dot_light_screen3">#76E6F5</color>
+    <color name="dot_light_screen4">#76E6F5</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_doy_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+
+    <!-- #40e0d0 -->
+    <color name="bg_login">#0097A7</color>
+    <color name="bg_register">#21fdce</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#40e0d0</color>
+    <color name="nav_header_color">#3aabba</color>
+
+</resources>

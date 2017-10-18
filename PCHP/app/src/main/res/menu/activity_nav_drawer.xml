@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dog"
+            android:icon="@mipmap/ic_nav_dog"
+            android:title="Perfil del perro" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@mipmap/ic_nav_food"
+            android:title="Gestión de comida" />
+        <item
+            android:id="@+id/nav_cam"
+            android:icon="@mipmap/ic_nav_cam_sec"
+            android:title="Streaming de video" />
+    </group>
+
+    <item android:title="Fortrain Works">
+        <menu>
+            <item
+                android:id="@+id/nav_team"
+                android:icon="@mipmap/ic_nav_team_2"
+                android:title="Equipo de trabajo" />
+            <item
+                android:id="@+id/nav_out"
+                android:icon="@mipmap/ic_nav_out"
+                android:title="Salir" />
+        </menu>
+    </item>
+
+</menu>

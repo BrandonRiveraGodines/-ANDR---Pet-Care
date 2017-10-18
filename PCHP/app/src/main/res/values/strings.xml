@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Pet Care</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">SALTAR</string>
+    <string name="start">LISTO</string>
+
+    <string name="slide_1_title">Para tus amigos peludos</string>
+    <string name="slide_1_desc">Controla los cuidados de tus perros, </string>
+
+    <string name="slide_2_title">Alimentalos</string>
+    <string name="slide_2_desc">Automatiza el proceso de alimentación de tu perro.</string>
+
+    <string name="slide_3_title">Datos concretos</string>
+    <string name="slide_3_desc">Obten datos concretos e importantes sobre tu perro.</string>
+
+    <string name="slide_4_title">Observa desde lejos</string>
+    <string name="slide_4_desc">Obtén a través de nuestra aplicación Streaming de video en tiempo real para saber en todo momento lo que hace tu perro.</string>
+
+    <string name="Email">Correo electrónico</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_register">Registrar</string>
+    <string name="btn_link_to_register">¿No eres miembro? Registrate ahora</string>
+    <string name="btn_link_to_login">¡Ir a iniciar sesión!</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="btn_logout">Cerrar sesión</string>
+    <string name="name">Nombre completo</string>
+    <string name="title_activity_nav">NavActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="sex">
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+
+    <string name="spinner_name">Selecciona el sexo de tu mascota</string>
+</resources>
